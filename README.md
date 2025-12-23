@@ -8,7 +8,7 @@ Recommender systems help users discover content they are likely to enjoy.
 
 This project demonstrates how to build a movie recommender using data preprocessing, feature extraction, and similarity-based techniques.
 
-The dataset-https://www.kaggle.com/datasets/quora/question-pairs-dataset
+The dataset-https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 Key Features
 
